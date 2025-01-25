@@ -1,5 +1,5 @@
 name: My First GitHUB Actions
-on:[push]
+on: [push]
 jobs:
   build:
     runs-on:ububtu-latest
